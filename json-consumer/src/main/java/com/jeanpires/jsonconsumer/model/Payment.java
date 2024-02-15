@@ -5,7 +5,7 @@ import lombok.ToString;
 
 import java.io.Serializable;
 
-@ToString
+@ToStringgi
 @Getter
 public class Payment implements Serializable {
 
